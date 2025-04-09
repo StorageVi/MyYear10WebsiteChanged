@@ -36,7 +36,7 @@ img {
 
 /* nice big font on a banner style background */
 .topic-title{
-    color: white;
+    color: rgb(255, 255, 255);
     font-size: 2em;
     padding: 0.1em 3em;
     background-color: rgb(71, 71, 71);
@@ -55,11 +55,11 @@ img {
 
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
 .topic-card{
-    background-color: rgb(71, 71, 71);
+    background-color: rgba(14, 12, 177, 0.925);
     color: white;
     padding: 1em;
     border-radius: 0.5em;
-    box-shadow: 10px 10px 10px rgba(73, 42, 184, 0.2);
+    box-shadow: 10px 10px 10px rgba(6, 161, 141, 0.671);
 }
 
 /* Styling for the topic card titles */
