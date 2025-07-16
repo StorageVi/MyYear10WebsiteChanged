@@ -36,7 +36,7 @@ img {
 
 /* nice big font on a banner style background */
 .topic-title{
-    color: rgb(255, 255, 255);
+    color: rgb(223, 61, 12);
     font-size: 2em;
     padding: 0.1em 3em;
     background-color: rgb(255, 230, 0);
@@ -56,7 +56,7 @@ img {
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
 .topic-card{
     background-color: rgb(15, 117, 235);
-    color: white;
+    color: rgb(190, 13, 13);
     padding: 1em;
     border-radius: 0.5em;
     box-shadow: 10px 10px 10px rgba(6, 161, 141, 0.671);
@@ -74,7 +74,7 @@ img {
 /* Styling for a footer section to take a bit of spcae at the bottom of the page */
 .footer{
     background-color: rgb(253, 165, 32);
-    color: white;
+    color: rgb(106, 42, 255);
     text-align: right;
     padding: 3em 3em;
 }
